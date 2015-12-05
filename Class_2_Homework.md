@@ -1,5 +1,5 @@
 1. In the chipotle.tsv data set, it looks like each column corresponds to a certain attribute of the data set. For example, we have order_id, quantity, etc. which are all attributes of the data. It looks like each row corresponds to a single item ordered. So for a single order, we may have multiple rows because there is more than one single food item in that order.To understand the structure of this data set, I used the following command:
-  `head chipotle.tsv`
+  * `head chipotle.tsv`
 
 2. Based on the number of order_id's in the chipotle.tsv file, it looks like the file contains 1,834 orders.
 
